@@ -175,7 +175,18 @@ footer {
     color: black;
     border: yellow ;
 }
- .card-color{
+.btn-formu {
+    background-color:black;
+    color: yellow;
+    border: 3px solid yellow;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    font-size:100%
+    
+ }  
+ 
+
+.card-color{
     background-color:black;
     text-align: center;
 }
@@ -338,6 +349,4 @@ text-decoration:line-through;
                 'GRAD' 0,
                 'opsz' 48
               }
-              </style>   
-              
-              
+                    
