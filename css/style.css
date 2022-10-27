@@ -349,4 +349,15 @@ text-decoration:line-through;
                 'GRAD' 0,
                 'opsz' 48
               }
-                    
+
+
+              .table-color{
+                
+    color: white;
+    
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    font-size:100%
+    
+
+              }
