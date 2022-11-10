@@ -1,0 +1,32 @@
+footer {
+   
+    min-height: 100px;
+     border-top: 1px solid rgba(50, 50, 50, 0.3);
+     width:100%;
+     position: relative;
+     clear: both;
+     margin-top:10%;
+     padding-top: 0px;
+     overflow:-moz-hidden-unscrollable ;
+     bottom: 0%;
+     border-top: 1px solid rgb(180, 180, 174)
+    }
+
+    .iconosfooter:hover{
+        color: none;
+        background: none;
+        
+          filter: brightness(100%);
+  transition: all 1s ease 0s;
+         }
+
+         .textosfooter{
+            font-style: normal;
+            font-size: smaller;
+            font-weight: lighter;
+            text-align: center;
+            color:white;
+            
+        } 
+   
+    

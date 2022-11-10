@@ -1,0 +1,74 @@
+.btn-promo {
+    background-color:black;
+    color: yellow;
+    border: 3px solid yellow;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    font-size:200%
+    
+ }  
+ .btn-promo:hover{
+    background-color: yellow;
+    color: black;
+    border: yellow ;
+}
+
+.btn-promo2 {
+    background-color:black;
+    color: rgb(103, 122, 233);
+    border: 3px solid rgb(103, 122, 233);
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    font-size:200%
+    
+ }  
+ .btn-promo2:hover{
+    background-color: rgb(103, 122, 233);
+    color: white;
+    border: rgb(92, 94, 104);
+}
+
+a {
+    outline:#c2c4c1;
+    text-decoration: none;
+    color:white;
+    cursor:hand;
+    &:hover {
+                
+        background:white;
+        color: black;
+        border-radius: 6px;
+        }  
+ }
+
+
+
+
+    .iconosfooter{
+    filter: grayscale(1);
+}  
+
+.logohomegrande{
+    filter:  brightness(85%);
+  
+ &:hover{
+  color: none;
+  background: none;
+  
+    
+    filter: brightness(100%);
+transition: all 1s ease 0s;}
+
+}
+  
+.zumba{
+    color: none;
+background: none;
+  
+
+  &:hover{
+    color: none;
+    background: none;
+    filter: drop-shadow(6px 6px 15px white);
+  }
+}
