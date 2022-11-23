@@ -1,19 +1,17 @@
-# PreEntrega3PolitoLuciano
-Tercera Preentrega Polito Luciano Agustin
+El sitio corresponde a un espacio de entrenamiento. Es un microemprendimiento real, la idea del sitio ademas de aprender es que sea utilizado por el gimnasio.
+Se eligio un hosting pago en hostinger ya que sera  utilizado se registro un punto com, ya que el .ar requeria clave de afip etc etc  , en el futuro se le agregaran las fotos con mejor estetica (soliticitando ayuda de fotografo y diseñador grafico) y se le realizara el mantenimiento y cambios cuando se requieran de horarios, o demas info a pedido del cliente.
+Los colores y tipografías se eligieron viendo varias páginas de gimnasio y basandose en el logo del emprendimiento
 
-Se completo el sitio con los archivos reales para que sea funcional para el cliente, el gimnasio existe se urara la pagina.
-Las fotos otorgadas por el cliente no son de buena calidad, por lo que se sacaran nuevas fotos y seran reemplazas luego, asi como los videos 
-que el cliente no posee en buena calidad
-Se agregaron textos reales, fotos reales (la calidad es la que dio el cliente)
-Se corrigieron los errores de overflow y quedaron todas las paginas responsive
-Se termino el footer con todos sus botones con respectivos links con hover mejorados, se agrego logo de zumba por pedido del cliente con link a la pagina oficial 
-ya que el cliente es miembro oficial
-se agrego carrusel de fotos y menues desplazables vertical 
-se completaron alt y demas textos
+Se realizaron las correciones surgidas en la preentrega final:
 
-Se paso todo a scss utilizando agregando carpetas , utilzando mayoritariamente la de color
-se guarda css antiguo a modo de backup
+-Barra de navegacion responsive: se agrego para poder navegar libremente a otras paginas secciones y no tener que volver al home. La barra de 
+navegación tiene opacidad baja y al hacer hover vuelve al cien asi como tambien se la posiciono fija y arriba de todo el contenido con z index para 
+que el contenido de la pagina pase por debajo.
+-Mapa google: se agrando el tamaño para que en vista previa se vea correctamente
+-Iconos del footer, cambian de posicion de acuerdo a la resolución de pantalla, en la versión de preentrega se mantenían unicamente centrados
+-Sacar ir arriba e iconos confusos en menues de disciplinas y bienestar, para navegar verticalmente se utiliza solo el scroll
+-Iconos del footer cambios en diseño: se unificaron tamaños y todos inician en escala de grises, al hacer hover vuelven al color
+-Botones promo: tenian originalmente movimientos y corrimientos de tipografia al hacer hover, se corrigio.
+-Formulario: se cambio el que estaba (boostrap) por otro. (no es funcional por el momento, la idea es continuar con los cursos y realizarlo)
 
-errores: el ultimo git se trabo la consola dando error: "Another git process seems to be running in this repository"  y fue hecho desde el sitio.
 
-Se probo el sitio desde celular, pc y notebook ademas de hacerlo con navegadores.
